@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shushnikz" alt="shushnikz" /></a> </p>
 
-- 🔭 I’m currently working on [Job-App](https://beautiful-clafoutis-5cab2f.netlify.app/)
+- 🔭 I’m currently working as full stack developer in 9 elephants service
 
 - 👨‍💻 All of my projects are available at [https://frabjous-sunflower-7363ea.netlify.app/](https://frabjous-sunflower-7363ea.netlify.app/)
 
