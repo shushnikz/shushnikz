@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sushmithadevadiga997@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1P0U8sZBQ8SSxtHksMh5l6aw1luGqZZA2/view?usp=drivesdk](https://drive.google.com/file/d/1P0U8sZBQ8SSxtHksMh5l6aw1luGqZZA2/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1P0U8sZBQ8SSxtHksMh5l6aw1luGqZZA2/view?usp=drivesdk](https://drive.google.com/file/d/1DFbM-UgHSoVO1_RjBeuw8S304nxWSS0i/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
